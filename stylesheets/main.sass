@@ -1,0 +1,230 @@
+@import "colorsFonts"
+@import "mixins"
+
+
+//Header
+
+.bg
+  background-image: url("../img/person-standing-in-front-of-forest-while-using-smartphone-1526791.jpg")
+  color: $white
+  height: 5em
+  font-family: $BigSchouldersD
+  text-align: center
+  padding-top: 15%
+  font-size: 5em
+  background-size: cover
+
+//Nav
+nav
+  background-color: $grey-blue
+  font-family: $Poiret
+  font-size: 1.5em
+
+  .navbar-brand
+    font-size: 1.5em
+    font-family: $Poiret
+    margin-left: 0.5em
+
+  .nav-item
+    margin-left: 0.5em
+
+//Main
+
+button
+  background-color: $white
+  color: $grey-blue
+  border: none
+  font-size: 1em
+
+
+
+
+.main
+  margin-bottom: 3em
+  margin-top: 3em
+
+
+
+
+  .nav-link
+    font-family: $Roboto
+    color: black
+
+  .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active
+      background-color: $light-gray
+
+  .tab-content
+    background-color: $light-gray
+
+
+
+
+
+
+
+
+    .imageContainer
+      width: 100%
+      font-family: $BigSchouldersD
+      padding-top: 25%
+      height: 4em !important
+      font-size: 4em !important
+
+
+      img
+        width: 100%
+        object-fit: cover
+
+      +xs
+        font-size: 2.8em
+      +sm
+        font-size: 2.8em
+
+    .centered
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%)
+
+  .container
+    padding-left: 0 !important
+    padding-right: 0 !important
+
+  .tab-pane
+    font-size: 1.5em
+    font-family: $Poiret
+
+    +xs
+      font-size: 1.2em
+
+    +sm
+      font-size: 1.2em
+
+
+
+    .text
+      padding: 1em
+      padding-bottom: 0.8em
+
+
+
+
+    h3
+      font-size: 2em
+      text-align: center
+      font-weight: bold
+
+    span
+      margin-left: 8em
+
+
+
+    .location
+      font-size: 0.8em
+      margin-block-end: 0
+
+      +xs
+        font-size: 0.6em
+
+      +sm
+        font-size: 0.6em
+      +md
+        font-size: 0.6em
+
+    .create
+      text-align: center
+      margin-top: 1em
+
+    .LocationDetails
+      width: 100%
+
+      background-color: white
+      padding-top: 1.5em
+
+      .mainHeader
+        text-align: center
+        margin-bottom: 1em
+        font-size: 3em
+        border-bottom: 1px solid $grey-blue
+
+
+
+.contentItem
+  text-align: center
+  margin-bottom: 2em
+  .contentText
+
+    min-height: 12em
+
+    +xs
+      min-height: 14em
+
+    +sm
+      min-height: 14em
+    +md
+      min-height: 14em
+
+    h1
+      font-size: 1.5em
+
+      +xs
+        font-size: 2.5em
+      +sm
+        font-size: 2.5em
+      +md
+        font-size: 2em
+    p
+      font-size: 0.5em
+      font-weight: bold
+
+      +xs
+        font-size: 0.8em
+      +sm
+        font-size: 0.8em
+      +md
+        font-size: 0.7em
+
+
+    span
+      font-size: 0.4em
+      font-weight: bold
+      margin-left: 0
+
+      +xs
+        font-size: 0.6em
+      +sm
+        font-size: 0.6em
+      +md
+        font-size: 0.6em
+
+  .contentImage
+    width: 100%
+
+    //lets images disappear on small screens
+
+    //+xs
+    //  display: none
+    //+sm
+    //  display: none
+
+
+    img
+      width: 100%
+      object-fit: cover
+      height: 8em
+
+
+
+
+//Footer
+
+footer
+  background-color: $grey-blue
+
+
+// Media Queries
+
+@media (max-width: 768px)
+    .contentImage
+      display: none
+

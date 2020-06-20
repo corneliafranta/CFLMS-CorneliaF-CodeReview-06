@@ -1,0 +1,237 @@
+.bg {
+  background-image: url("../img/person-standing-in-front-of-forest-while-using-smartphone-1526791.jpg");
+  color: white;
+  height: 5em;
+  font-family: "Big Shoulders Display", cursive;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 5em;
+  background-size: cover;
+}
+
+nav {
+  background-color: #6d8170;
+  font-family: "Poiret One", cursive;
+  font-size: 1.5em;
+}
+nav .navbar-brand {
+  font-size: 1.5em;
+  font-family: "Poiret One", cursive;
+  margin-left: 0.5em;
+}
+nav .nav-item {
+  margin-left: 0.5em;
+}
+
+button {
+  background-color: white;
+  color: #6d8170;
+  border: none;
+  font-size: 1em;
+}
+
+.main {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+.main .nav-link {
+  font-family: "Roboto Condensed", sans-serif;
+  color: black;
+}
+.main .nav-tabs .nav-item.show .nav-link, .main .nav-tabs .nav-link.active {
+  background-color: #f2f2f2;
+}
+.main .tab-content {
+  background-color: #f2f2f2;
+}
+.main .tab-content .imageContainer {
+  width: 100%;
+  font-family: "Big Shoulders Display", cursive;
+  padding-top: 25%;
+  height: 4em !important;
+  font-size: 4em !important;
+}
+.main .tab-content .imageContainer img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-device-width: 480px) {
+  .main .tab-content .imageContainer {
+    font-size: 2.8em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .main .tab-content .imageContainer {
+    font-size: 2.8em;
+  }
+}
+.main .tab-content .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.main .container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.main .tab-pane {
+  font-size: 1.5em;
+  font-family: "Poiret One", cursive;
+}
+@media (max-device-width: 480px) {
+  .main .tab-pane {
+    font-size: 1.2em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .main .tab-pane {
+    font-size: 1.2em;
+  }
+}
+.main .tab-pane .text {
+  padding: 1em;
+  padding-bottom: 0.8em;
+}
+.main .tab-pane h3 {
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+}
+.main .tab-pane span {
+  margin-left: 8em;
+}
+.main .tab-pane .location {
+  font-size: 0.8em;
+  margin-block-end: 0;
+}
+@media (max-device-width: 480px) {
+  .main .tab-pane .location {
+    font-size: 0.6em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .main .tab-pane .location {
+    font-size: 0.6em;
+  }
+}
+@media (min-device-width: 768px) and (max-device-width: 992px) {
+  .main .tab-pane .location {
+    font-size: 0.6em;
+  }
+}
+.main .tab-pane .create {
+  text-align: center;
+  margin-top: 1em;
+}
+.main .tab-pane .LocationDetails {
+  width: 100%;
+  background-color: white;
+  padding-top: 1.5em;
+}
+.main .tab-pane .LocationDetails .mainHeader {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 3em;
+  border-bottom: 1px solid #6d8170;
+}
+
+.contentItem {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.contentItem .contentText {
+  min-height: 12em;
+}
+@media (max-device-width: 480px) {
+  .contentItem .contentText {
+    min-height: 14em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .contentItem .contentText {
+    min-height: 14em;
+  }
+}
+@media (min-device-width: 768px) and (max-device-width: 992px) {
+  .contentItem .contentText {
+    min-height: 14em;
+  }
+}
+.contentItem .contentText h1 {
+  font-size: 1.5em;
+}
+@media (max-device-width: 480px) {
+  .contentItem .contentText h1 {
+    font-size: 2.5em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .contentItem .contentText h1 {
+    font-size: 2.5em;
+  }
+}
+@media (min-device-width: 768px) and (max-device-width: 992px) {
+  .contentItem .contentText h1 {
+    font-size: 2em;
+  }
+}
+.contentItem .contentText p {
+  font-size: 0.5em;
+  font-weight: bold;
+}
+@media (max-device-width: 480px) {
+  .contentItem .contentText p {
+    font-size: 0.8em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .contentItem .contentText p {
+    font-size: 0.8em;
+  }
+}
+@media (min-device-width: 768px) and (max-device-width: 992px) {
+  .contentItem .contentText p {
+    font-size: 0.7em;
+  }
+}
+.contentItem .contentText span {
+  font-size: 0.4em;
+  font-weight: bold;
+  margin-left: 0;
+}
+@media (max-device-width: 480px) {
+  .contentItem .contentText span {
+    font-size: 0.6em;
+  }
+}
+@media (min-device-width: 480px) and (max-device-width: 768px) {
+  .contentItem .contentText span {
+    font-size: 0.6em;
+  }
+}
+@media (min-device-width: 768px) and (max-device-width: 992px) {
+  .contentItem .contentText span {
+    font-size: 0.6em;
+  }
+}
+.contentItem .contentImage {
+  width: 100%;
+}
+.contentItem .contentImage img {
+  width: 100%;
+  object-fit: cover;
+  height: 8em;
+}
+
+footer {
+  background-color: #6d8170;
+}
+
+@media (max-width: 768px) {
+  .contentImage {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

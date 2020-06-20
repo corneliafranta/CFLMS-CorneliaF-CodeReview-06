@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f73eb9e0-ab03-4489-a805-fe6ae72c483a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CFLMS-TS-DAY-01-Manuel-Cornelia/advanced_Cornelia/Media/colorful-flowers-in-vase-placed-on-white-wooden-table-on-3873800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CFLMS-TS-DAY-01-Manuel-Cornelia/advanced_Cornelia/Media/hamburger-2856548_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CFLMS-TS-DAY-01-Manuel-Cornelia/advanced_Cornelia/Media/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../CFLMS-TS-DAY-01-Manuel-Cornelia/advanced_Cornelia/stylesheets/colorsFonts.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/antibes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beach-blue-car-combi-386025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/man-in-brown-jacket-sitting-on-chair-in-front-of-fruit-stand-3646171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/person-standing-in-front-of-forest-while-using-smartphone-1526791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo-of-buildings-near-body-of-water-1529040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo-of-woman-674268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stockholm-1522572_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/structural-photography-of-castle-2351425.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vienna-933500_1280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/breakpoints.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/colorsFonts.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/mixins.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/blog.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../restaurantPage/Javascript/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../restaurantPage/Media/breakfast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../restaurantPage/Media/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../restaurantPage/Media/sprout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../typeScriptCourse/exercise1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CFLMS-JS-DAY4-Mamayda-Cornelia/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/breakpoints.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/breakpoints.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/breakpoints.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/breakpoints.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/colorsFonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/colorsFonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/colorsFonts.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/colorsFonts.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/main.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/mixins.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/mixins.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Css/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Css/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../restaurantPage/Javascript/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../restaurantPage/Javascript/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dX0Q0VbGL9LoecHROphccVvqit" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stylesheets" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\frant\Desktop\CodeFactory_Projects\CodeREviews\CFLMS-CorneliaF-CodeReview-06\stylesheets" />
+      <recent name="C:\Users\frant\Desktop\CodeFactory_Projects\CodeREviews\CFLMS-CorneliaF-CodeReview-06\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f73eb9e0-ab03-4489-a805-fe6ae72c483a" name="Default Changelist" comment="" />
+      <created>1592556110689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592556110689</updated>
+      <workItem from="1592556112055" duration="23762000" />
+      <workItem from="1592581143926" duration="11276000" />
+      <workItem from="1592645657945" duration="24000" />
+      <workItem from="1592645730735" duration="18486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="191" key="EditFileWatcherDialog" timestamp="1592647920292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="191" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1592647920292" />
+    <state x="485" y="115" key="RollbackChangesDialog" timestamp="1592663273169">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592663273169" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1592646254144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592646254144" />
+    <state x="372" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592649663967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1592649663967" />
+    <state x="478" y="0" width="579" height="824" key="find.popup" timestamp="1592580898272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="0" width="579" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592580898272" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1592659945835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592659945835" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592645902813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592645902813" />
+  </component>
+</project>

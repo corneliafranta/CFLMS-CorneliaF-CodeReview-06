@@ -1,0 +1,29 @@
+@import "breakpoints"
+
+// Smartphone portrait
+=xs
+  @media (max-device-width: #{$screen-xs-max})
+    @content
+// Small devices
+=sm
+  @media (min-device-width: #{$screen-xs-max}) and (max-device-width: #{$screen-md-min})
+    @content
+
+// Medium devices
+=md
+  @media (min-device-width: #{$screen-md-min}) and (max-device-width: #{$screen-lg-min})
+    @content
+
+// Large devices
+=lg
+  @media (min-device-width: #{$screen-lg-min}) and (max-device-width: #{$screen-xl-min})
+    @content
+
+// Extra large devices
+=xl
+  @media (min-device-width: #{$screen-xl-min})
+    @content
+
+=rwd($screen)
+  @media (min-device-width: $screen + "px")
+    @content
